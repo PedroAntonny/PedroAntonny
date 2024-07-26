@@ -7,12 +7,9 @@
  <p>📫 Contate-me : pedro.antonio.1597@gmail.com</p>
 </div>
 
- <a href="https://github.com/PedroAntonny">
- 
- <div width="100%">
-<img width="43%" height="170em" src="https://github-readme-stats.vercel.app/api?username=PedroAntonny&show_icons=true&theme=tokyonight&title_color=ffd43d&text_color=ffffff&bg_color=171717&icon_color=FFD43D&hide_border=true&include_all_commits=true&count_private=true">
-
-<img width="45%" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAntonny&layout=compact&langs_count=7&&theme=tokyonight&title_color=ffd43d&text_color=ffffff&bg_color=171717&icon_color=ffd43d&hide_border=true"><br/>
+  <a href="https://github.com/PedroAntonny">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroantonny&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAntonny&layout=compact&langs_count=7&theme=tokyonight"/><br/>
 
 </div>
  
