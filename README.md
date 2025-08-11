@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFF&lines=Opaa%2C+eae+Pedro+Antonny+aqui!+👋)](https://git.io/typing-svg)
 
 <div>
- <p text-align="left">🔭 Front-End Developer</p>
+ <p text-align="left">🔭 Full-Stack Developer</p>
  <p>📚 Software engineering student at UNINTER.</p>
  <p>🌱 Conhecimento: HTML, CSS, Tailwind, Javascript, Typescript, Node.js, React.js, React Native, Next.js, NestJS Git, SQL.</p>
  <p>📫 Contate-me : pedro.antonio.1597@gmail.com</p>
